@@ -1,0 +1,19 @@
+{
+  "name": "victory-geo",
+  "version": "0.0.1",
+  "description": "geo component for victory",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boygirl/victory-geo.git"
+  },
+  "author": "Lauren Eastridge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boygirl/victory-geo/issues"
+  },
+  "homepage": "https://github.com/boygirl/victory-geo",
+  "scripts": {
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
